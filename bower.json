@@ -1,0 +1,23 @@
+{
+  "name": "faker",
+  "main": "./build/build/faker.js",
+  "homepage": "tranhuunghiem99/Nghiem-Faker-Js.js",
+  "authors": [
+    "Trần Hữu Nghiêm <tranhuunghiem48@gmail.com>"
+  ],
+  "description": "Generate massive amounts of fake contextual data",
+  "keywords": [
+    "faker",
+    "fake",
+    "dummy",
+    "identity",
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
