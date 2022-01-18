@@ -1,7 +1,7 @@
 {
   "name": "faker",
   "main": "./build/build/faker.js",
-  "homepage": "tranhuunghiem99/Nghiem-Faker-Js.js",
+  "homepage": "tranhuunghiem99/nghiem-faker.js",
   "authors": [
     "Trần Hữu Nghiêm <tranhuunghiem48@gmail.com>"
   ],

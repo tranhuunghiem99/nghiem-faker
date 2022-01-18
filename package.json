@@ -1,13 +1,18 @@
 {
   "name": "nghiem-fakerjs",
   "description": "Generate massive amounts of fake contextual data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "contributors": [
     "Trần Hữu Nghiêm <tranhuunghiem48@gmail.com>"
   ],
+  "author": {
+    "name": "TranHuuNghiem",
+    "email": "tranhuunghiem48@gmail.com",
+    "url": "https://github.com/tranhuunghiem99"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tranhuunghiem99/Nghiem-Faker-Js.git"
+    "url": "https://github.com/tranhuunghiem99/nghiem-faker.git"
   },
   "scripts": {
     "browser": "./node_modules/.bin/gulp browser",

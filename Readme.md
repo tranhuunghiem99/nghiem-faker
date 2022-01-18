@@ -24,8 +24,8 @@
     var randomCard = faker.helpers.createCard(); // random contact card containing many properties
 ```
 
-## API
-
+## Gennertor nghiem-faker.js + Json-Server Demo code:
+https://github.com/tranhuunghiem99/generator-data-faker
 ### JSDoc API Browser
 
 
